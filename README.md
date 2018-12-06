@@ -1,5 +1,5 @@
 # act-github-bio
-This repository is an overview of all my other repositores, my clubs, and contributions
+This repository is an overview of all my other repositores, clubs, and contributions
 
 ----PROJECTS----
 
