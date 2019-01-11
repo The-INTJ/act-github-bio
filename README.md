@@ -2,6 +2,8 @@
 This repository is an overview of all my other repositores, clubs, and contributions
 
 ----PROJECTS----
+	AWS Lambda
+This project is one I did to familiarize myself with the AWS Lambda features. The program responds to an S3 storage file creation, sending an email to the specified individuals containing the size and name of the file. Credit to @thigley986 for the boto3 implementation of sending an email.
 
 	Musical Words
 This is a project that myself a friend from Georgia Tech occasionally work on. Its eventual operation will be to take input from the user in the form of sentence, and then output a real-time generated song based on the syllable count of the words.
