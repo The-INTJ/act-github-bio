@@ -4,7 +4,7 @@ This repository is an overview of all my other repositores, clubs, and contribut
 ----PROJECTS----
 
 	Musical Words
-This is a project that myself a friend from Georgia Tech occasionally work on. Its eventual operation will be to take input from the user in the form of an number of words, and then output a real-time generated song based on the syllable count of the words.
+This is a project that myself a friend from Georgia Tech occasionally work on. Its eventual operation will be to take input from the user in the form of sentence, and then output a real-time generated song based on the syllable count of the words.
 
 	The Game
 The Game is a 2-D platformer that I built. Myself and a couple friend intended to build a fully functioning game that we could use to run competitions at our school and generate money. While we ended up never fully finishing it, I've since been looking into game design more, as it was some of the best fun I've had coding.
