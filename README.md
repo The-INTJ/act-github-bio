@@ -2,6 +2,7 @@
 This repository is an overview of all my other repositores, clubs, and contributions
 
 ----PROJECTS----
+
 	AWS Lambda
 This project is one I did to familiarize myself with the AWS Lambda features. The program responds to an S3 storage file creation, sending an email to the specified individuals containing the size and name of the file. Credit to @thigley986 for the boto3 implementation of sending an email.
 
