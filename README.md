@@ -13,7 +13,7 @@ This is a project that myself a friend from Georgia Tech occasionally work on. I
 The Game is a 2-D platformer that I built. Myself and a couple friend intended to build a fully functioning game that we could use to run competitions at our school and generate money. While we ended up never fully finishing it, I've since been looking into game design more, as it was some of the best fun I've had coding.
 
 	Data Structures
-Data structures are key to programming in almost any setting. This repository has custom created data structures in most of the languages I know. The repository contains folders for each language, and then sub folders within that for each structure.
+Data structures are key to programming in almost any setting. This repository contains data structures in most of the languages I know. The repository holds folders for each language, and then sub folders within that for each structure.
 
 ----CONTRIBUTIONS----
 
