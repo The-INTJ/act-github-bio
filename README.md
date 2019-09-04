@@ -1,5 +1,5 @@
 # act-github-bio
-This repository is an overview of all my other repositores, clubs, and contributions
+This repository is an overview of all my repositores and contributions to other projects
 
 ----PROJECTS----
 
@@ -12,10 +12,8 @@ This is a project that myself a friend from Georgia Tech occasionally work on. I
 	The Game
 The Game is a 2-D platformer that I built. Myself and a couple friend intended to build a fully functioning game that we could use to run competitions at our school and generate money. While we ended up never fully finishing it, I've since been looking into game design more, as it was some of the best fun I've had coding.
 
-----CLUBS----
-
-	CSIP
-CSIP stands for Computer Science Interview Prep, and is a club that meets weekly where members work to solve coding problems, ranging from simple for-loop solutions to those requiring dynamic programming and more complex data structures.
+	Data Structures
+Data structures are key to programming in almost any setting. This repository has custom created data structures in most of the languages I know. The repository contains folders for each language, and then sub folders within that for each structure.
 
 ----CONTRIBUTIONS----
 
