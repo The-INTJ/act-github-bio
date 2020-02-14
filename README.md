@@ -17,6 +17,9 @@ The Game is a 2-D platformer that I built. Myself and a couple friend intended t
 
 ----CONTRIBUTIONS----
 
+	wolfX
+Using Andriod and Java with Graddle, I and three friends developed 'Tinder for Stocks'. We integrated it with our own REST API using a Flask back-end, which polled other APIs to grab images for each stock and data about its current market position.
+
 	Tune
 Using swiftUI and python, a friend and I are developing a simple but powerful guitar tuner for iOS.
 
