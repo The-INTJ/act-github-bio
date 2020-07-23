@@ -3,6 +3,15 @@ This repository is an overview of all my repositores and contributions to other 
 
 ----PROJECTS----
 
+	MERNstack
+This is a full-stack app using (as the name suggests) MongoDB, Express, React, and Node.js. 
+
+	BootTrack-DT
+Over the summer I worked with a team of interns, both business and technical. We utilized an MVC design and ASP.Net to create a reactive front-end that will eventually be used by the company to track their interns.
+
+	Loan Calculator
+MVC format plus exhibition of form control and inpuit validation and page sync depending on the inputs.
+
 	AWS Lambda
 This project is one I did to familiarize myself with the AWS Lambda features. The program responds to an S3 storage file creation, sending an email to the specified individuals containing the size and name of the file. Credit to @thigley986 for the boto3 implementation of sending an email.
 
